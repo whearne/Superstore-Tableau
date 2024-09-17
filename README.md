@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard
+# Superstore Sales Dashboard ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 This Tableau project provides a detailed analysis of a superstore's sales data, helping to uncover insights into sales trends, shipping costs, regional performance, and product category profitability. The dashboard includes interactive visualisations that offer a comprehensive view of the business’s key metrics.
 
 ## Dashboard Overview
