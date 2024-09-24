@@ -2,6 +2,7 @@
 This Tableau project provides a detailed analysis of a superstore's sales data, helping to uncover insights into sales trends, shipping costs, regional performance, and product category profitability. The dashboard includes interactive visualisations that offer a comprehensive view of the business’s key metrics.
 
 ## Dashboard Overview
+[View the Tableau Dashboard here](https://public.tableau.com/app/profile/william.hearne/viz/SuperstoreDashboard_17265852440710/Dashboard1).
 ### 1. **Comparing Average Shipping Cost to Sales**
 - **Visualisation**: Bar charts
 - **Details**: Compares the sales figures to the average shipping cost across different regions. This helps identify regions where shipping costs might be impacting overall profitability.
